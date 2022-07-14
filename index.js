@@ -1,0 +1,1 @@
+console.log('ALLAH Pak ka shukar ha!')
